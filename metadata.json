@@ -1,0 +1,6 @@
+{
+  "name": "Weather Intelligence",
+  "description": "A highly responsive and modern weather search dashboard offering detailed 7-day forecasting, current indicators, and personalized lifestyle recommendations powered by Open-Meteo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
